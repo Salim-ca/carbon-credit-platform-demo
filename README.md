@@ -80,15 +80,15 @@ The built files will be in the `dist` directory.
 
 ## Technology Stack
 
-- **React 18** with TypeScript
-- **Vite** for fast development and building
-- **React Router** for navigation
-- **Tailwind CSS** for styling
-- **Lucide React** for icons
+- React 18 with TypeScript
+- Vite for fast development and building
+- React Router for navigation
+- Tailwind CSS for styling
+- Lucide React for icons
 
 ## Project Structure
 
-```
+
 src/
 ├── components/       # Reusable components
 │   └── VerificationSteps.tsx
@@ -102,13 +102,5 @@ src/
 ├── types.ts        # TypeScript types
 ├── App.tsx         # Main app with routing
 └── main.tsx        # Entry point
-```
 
-## Demo Duration
-
-The demo is designed to be presentable in **2-3 minutes**, showcasing:
-- How projects are verified through multiple steps
-- How credits are issued and tracked on blockchain
-- How companies can purchase and retire credits
-- The immutability and transparency of the system
 
